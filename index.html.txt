@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>My Personal Introduction</title>
+      <style>
+        body {background-color:D2975A;}
+        h1 {color:E5E7E1;}
+        p {color:35364F;}
+      </style>
+      <body>
+       <h1>Myname is Saeb Sallam</h1>
+       <p>I am in my first year of Computer Programming and Development. This is my first time writing HTML. I really enjoy learning how HTML, CSS, and JavaScript work together to create a fully designed website.</p>
+      </body>
+    </head>
+  </html>
